@@ -1,0 +1,13 @@
+Hello 👋! I’m @Zer0Cool0 || Jack
+
+VB .Net / Javascript & Typescript / Lua Developer
+
+![Zer0Cool0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zer0Cool0)
+
+
+<--
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+-->
