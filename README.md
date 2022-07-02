@@ -6,9 +6,9 @@
 <h3>Languages I write in</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="LUA" src="https://img.shields.io/badge/-LUA-1a73e8?style=flat-square&logo=lua&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Visual Basic" src="https://img.shields.io/badge/-Visual Basic-430098?style=flat-square&logo=.net&logoColor=white" />
-  <img alt="LUA" src="https://img.shields.io/badge/-LUA-1a73e8?style=flat-square&logo=lua&logoColor=white" />
 </p>
 <h3>Things I code with</h3>
 <p>
