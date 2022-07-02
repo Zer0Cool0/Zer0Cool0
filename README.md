@@ -1,5 +1,3 @@
-<figure><embed src="https://wakatime.com/share/@fddf90f9-2316-4520-9de9-10f85aae0b80/f7df9413-8b25-464b-820f-af8d2cfc83e1.svg"></embed></figure>
-
 <h1><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30"/> Hello and welcome.</h1>
 
 
@@ -29,3 +27,5 @@
 ![Zer0Cool0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zer0Cool0&show_icons=true&theme=synthwave)
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/fwrokpj8157bl91c2htuldepz)
+
+<img src="https://wakatime.com/share/@fddf90f9-2316-4520-9de9-10f85aae0b80/bf111b58-325a-4db0-bb84-5c41b9c1f3dc.svg">
