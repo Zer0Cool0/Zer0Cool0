@@ -28,4 +28,4 @@
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/fwrokpj8157bl91c2htuldepz)
 
-<img src="https://wakatime.com/share/@fddf90f9-2316-4520-9de9-10f85aae0b80/bf111b58-325a-4db0-bb84-5c41b9c1f3dc.svg">
+<img src="https://wakatime.com/share/@fddf90f9-2316-4520-9de9-10f85aae0b80/a5c00886-84f9-400e-8ea3-816d4be01440.svg">
