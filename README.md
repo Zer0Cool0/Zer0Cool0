@@ -3,14 +3,14 @@
 
 <p>Welcome to my page! </br> I'm Jack || Zer0Cool0, and I am from The <img src="https://images.vexels.com/media/users/3/164649/isolated/lists/010f55d9bb5f8a28c3620583482d89ed-usa-flag-language-icon-circle.png" width="15"/> <b>United States</b></p>
 
-<h3>Languages I write in</h3>
+<h3>Languages: </h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="LUA" src="https://img.shields.io/badge/-LUA-1a73e8?style=flat-square&logo=lua&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <!--- img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> -->
-  <img alt="Visual Basic" src="https://img.shields.io/badge/-Visual Basic-430098?style=flat-square&logo=.net&logoColor=white" />
+  <!--- <img alt="Visual Basic" src="https://img.shields.io/badge/-Visual Basic-430098?style=flat-square&logo=.net&logoColor=white" /> -->
 </p>
 <h3>Things I code with</h3>
 <p>
