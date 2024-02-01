@@ -1,6 +1,6 @@
 <h1><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30"/> Hello and welcome.</h1>
 
-
+[![wakatime](https://wakatime.com/badge/user/fddf90f9-2316-4520-9de9-10f85aae0b80.svg)](https://wakatime.com/@fddf90f9-2316-4520-9de9-10f85aae0b80)
 <p>Welcome to my page! </br> I'm Jack || Zer0Cool0, and I am from The <img src="https://images.vexels.com/media/users/3/164649/isolated/lists/010f55d9bb5f8a28c3620583482d89ed-usa-flag-language-icon-circle.png" width="15"/> <b>United States</b></p>
 
 <h3>Languages: </h3>
